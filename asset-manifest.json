@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.bf9f7db9.js",
-    "static/media/731_java.jpg": "/static/media/731_java.79284b84bf0d1607a5ae.jpg",
-    "static/media/CH.png": "/static/media/CH.80aecd6ba354c6dee0c0.png",
-    "static/media/EH.png": "/static/media/EH.e0c047eecb7e116009b4.png",
-    "static/media/AX.png": "/static/media/AX.cbce695c387807f8d0b3.png",
-    "static/media/course-icon-slit.png": "/static/media/course-icon-slit.d1f3562a628e414f3ee5.png",
-    "static/media/fiver.webp": "/static/media/fiver.4a68a348b085428b6aee.webp",
-    "index.html": "/index.html",
-    "main.bf9f7db9.js.map": "/static/js/main.bf9f7db9.js.map"
+    "main.js": "/Myportfolio/static/js/main.3cb3e975.js",
+    "static/media/731_java.jpg": "/Myportfolio/static/media/731_java.79284b84bf0d1607a5ae.jpg",
+    "static/media/CH.png": "/Myportfolio/static/media/CH.80aecd6ba354c6dee0c0.png",
+    "static/media/EH.png": "/Myportfolio/static/media/EH.e0c047eecb7e116009b4.png",
+    "static/media/AX.png": "/Myportfolio/static/media/AX.cbce695c387807f8d0b3.png",
+    "static/media/course-icon-slit.png": "/Myportfolio/static/media/course-icon-slit.d1f3562a628e414f3ee5.png",
+    "static/media/fiver.webp": "/Myportfolio/static/media/fiver.4a68a348b085428b6aee.webp",
+    "index.html": "/Myportfolio/index.html",
+    "main.3cb3e975.js.map": "/Myportfolio/static/js/main.3cb3e975.js.map"
   },
   "entrypoints": [
-    "static/js/main.bf9f7db9.js"
+    "static/js/main.3cb3e975.js"
   ]
 }
