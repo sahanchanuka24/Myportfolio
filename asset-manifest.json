@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.js": "/Myportfolio/static/js/main.3cb3e975.js",
-    "static/media/731_java.jpg": "/Myportfolio/static/media/731_java.79284b84bf0d1607a5ae.jpg",
-    "static/media/CH.png": "/Myportfolio/static/media/CH.80aecd6ba354c6dee0c0.png",
-    "static/media/EH.png": "/Myportfolio/static/media/EH.e0c047eecb7e116009b4.png",
-    "static/media/AX.png": "/Myportfolio/static/media/AX.cbce695c387807f8d0b3.png",
-    "static/media/course-icon-slit.png": "/Myportfolio/static/media/course-icon-slit.d1f3562a628e414f3ee5.png",
-    "static/media/fiver.webp": "/Myportfolio/static/media/fiver.4a68a348b085428b6aee.webp",
-    "index.html": "/Myportfolio/index.html",
-    "main.3cb3e975.js.map": "/Myportfolio/static/js/main.3cb3e975.js.map"
+    "main.css": "/static/css/main.8e70ea13.css",
+    "main.js": "/static/js/main.03e2151a.js",
+    "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/static/js/990.567a0b93.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/resume.pdf": "/static/media/resume.f27b28114797e75099e1.pdf",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/731_java.jpg": "/static/media/731_java.79284b84bf0d1607a5ae.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/CH.png": "/static/media/CH.80aecd6ba354c6dee0c0.png",
+    "static/media/EH.png": "/static/media/EH.e0c047eecb7e116009b4.png",
+    "static/media/AX.png": "/static/media/AX.cbce695c387807f8d0b3.png",
+    "static/media/course-icon-slit.png": "/static/media/course-icon-slit.d1f3562a628e414f3ee5.png",
+    "static/media/fiver.webp": "/static/media/fiver.4a68a348b085428b6aee.webp",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8e70ea13.css.map": "/static/css/main.8e70ea13.css.map",
+    "main.03e2151a.js.map": "/static/js/main.03e2151a.js.map",
+    "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/static/js/990.567a0b93.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3cb3e975.js"
+    "static/css/main.8e70ea13.css",
+    "static/js/main.03e2151a.js"
   ]
 }
