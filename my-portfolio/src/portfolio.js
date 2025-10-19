@@ -7,7 +7,11 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 
 // Splash Screen
 
-
+const splashScreen = {
+  enabled: true, // set false to disable splash screen
+  animation: splashAnimation,
+  duration: 2000 // Set animation duration as per your animation
+};
 
 // Summary And Greeting Section
 
@@ -17,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Sahan chanuka",
-  title: "Hi all, I'm Sahan Chanuka",
+  title: "Hi all, I'm Sahan",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Spring boot and some other cool libraries and frameworks."
   ),
@@ -108,9 +112,22 @@ https://fontawesome.com/icons?d=gallery */
     },
     
     {
-      skillName: "Figma",
-      fontAwesomeClassname: "fab fa-figma"
-    }
+      skillName: "AWS",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "Kubernetes",
+      fontAwesomeClassname: "fab fa-kubernetes"
+    },
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -227,6 +244,17 @@ const bigProjects = {
         {
           name: "Github",
           url: ""
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/EH.png"),
+      projectName: "Restaurant food ordering system",
+      projectDesc: "Developed a full-stack web-based food ordering system using Node.js, Express.js, and MongoDB. Leveraged Docker and Docker Compose to create a multi-container environment for seamless development and deployment.",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/sahanchanuka24/Food-order-system.git"
         }
       ]
     }
