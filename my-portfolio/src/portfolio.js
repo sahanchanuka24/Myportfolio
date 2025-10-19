@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Spring boot and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/11cn3F4bbT5Fs9y14qGzNNxiTI4Iee4h9/view?usp=drive_linkhttps://drive.google.com/file/d/1gzumvU9ufM0xewIz4oJ7LwqmUdFvhGC_/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1gpIP_fNhQDptFur69b-uSti8r2cr3K28/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -247,6 +247,7 @@ const bigProjects = {
         }
       ]
     },
+
     {
       image: require("./assets/images/EH.png"),
       projectName: "Restaurant food ordering system",
